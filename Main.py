@@ -564,7 +564,7 @@ CanvasMain.pack(expand=True , fill=BOTH)
 welcomeFrame = Frame(library_app , bg='#FFBB00' , bd=5)
 welcomeFrame.place(relx=0.2 , rely=0.05 , relwidth=0.6 , relheight=0.16)
 
-welcomeLabel = Label(welcomeFrame, text='Welcome to\nJahad-15 Library' , bg='black' , fg='white' , font=('Comic Sans MS' , 18))
+welcomeLabel = Label(welcomeFrame, text='Welcome to Library' , bg='black' , fg='white' , font=('Comic Sans MS' , 18))
 welcomeLabel.place(relx=0 , rely=0 , relwidth=1 , relheight=1)
 
 #Buttons
