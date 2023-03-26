@@ -1,2 +1,2 @@
 # library-app
-This is a simple library management app using text file for storing data.
+This is a simple library management app using python with text file for storing data.
